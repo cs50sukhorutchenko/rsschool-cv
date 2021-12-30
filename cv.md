@@ -1,10 +1,13 @@
 # Sukhorutchenko Volodymyr
+![In the photo Sukhorutchenko V.](https://scontent.fdnk2-1.fna.fbcdn.net/v/t1.18169-1/cp0/p74x74/19875594_10209594917420267_380788708177038108_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=3bNtCBRwOLUAX8hij5X&_nc_oc=AQm9LEdD_VdMcsJIOgF6Do7VgB30pcK-0LhU_oXfzOFi6TGzaB0gNiaCoB3xHveYUDs&_nc_ht=scontent.fdnk2-1.fna&oh=00_AT9OxoeNgoP2jkb6zku7RHbMDKu5LmEs-F3fQRaVN1aw8A&oe=61F490D6)
 * * *  
 
 ### CONTACTS
 **Mail:** cs50sukhorutchenko@gmail.com  
 
-**Skype:** dn281090svg 
+**Skype:** dn281090svg  
+
+**Discord:** Volodymyr (@cs50sukhorutchenko)
 * * *  
 
 ### EXPERIENCE
