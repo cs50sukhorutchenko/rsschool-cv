@@ -55,3 +55,38 @@ function greet(){
   return "hello world!";
 }
 ```
+* * *  
+
+### EDUCATION
+*Master's Degree (Computer Science)*  
+
+**Dnipro Polytechnic National Technical
+University**
+* * *  
+
+### COURSES
+1. Yalantis Ruby School (online)
+- Ruby/RoR
+- Git
+2. loftschool(Web developer)
+- Confident work with Photoshop.
+- Knowledge of HTML (HTML5), CSS (CSS3).
+- Knowledge of SASS / SCSS preprocessors,
+Pug.
+- Knowledge of JavaScript and jQuery.
+- Confident work with SVG.
+- Cross-browser and cross-platform layout.
+- Confident work with the console and package
+managers.
+- Work with Gulp, Webpack.
+- Work with Git.
+- SPA, Vue.js.
+3. OTR Dnipro (Fundamentals of Web Development and
+Programming Front-end / Back-end)
+- Ruby/RoR
+- JS
+- PHP
+* * *  
+
+### ENGLISH LANGUAGE LEVEL
+***A2+***
