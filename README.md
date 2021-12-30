@@ -1,1 +1,1 @@
-https://github.com/cs50sukhorutchenko/rsschool-cv/blob/gh-pages/cv.md
+https://github.com/cs50sukhorutchenko/rsschool-cv.git
