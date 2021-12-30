@@ -51,6 +51,10 @@ accreditation.*
 - JavaScript
 * * *  
 
+### PROJECT
+[CV Sukhorutchenko](https://github.com/cs50sukhorutchenko/rsschool-cv)
+* * *  
+
 ### CODE
 ```JavaScript
 // Write a function "greet" that returns "hello world!"
