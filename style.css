@@ -1,0 +1,92 @@
+@font-face {
+    font-family: Roboto;
+    src: url("assets/fonts/Roboto.ttf");
+}
+
+.wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    font-weight: bold;
+    text-align: center;
+}
+
+.wrapper>* {
+    padding: 20px;
+    flex: 1 100%;
+}
+
+.main {
+    text-align: left;
+}
+
+@media all and (min-width: 600px) {
+    .aside {
+        flex: 1 0 0;
+    }
+}
+
+@media all and (min-width: 800px) {
+    .main {
+        flex: 3 0px;
+    }
+
+    .aside-1 {
+        order: 1;
+    }
+
+    .main {
+        order: 2;
+    }
+
+    .aside-2 {
+        order: 3;
+    }
+
+    .footer {
+        order: 4;
+    }
+}
+
+body {
+    padding: 2em;
+}
+
+.avatar {
+    border-radius: 50%;
+    width: 80%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    border: 15px solid var(--white);
+}
+
+.contacts-list {
+    list-style-type: none;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.footer {
+    display: flex;
+    overflow: auto;
+    text-align: center;
+    align-items: center;
+  }
+  .footer div:nth-child(1) {
+    
+    flex: none;
+    width: 40%;
+    
+  }
+  .footer div:nth-child(2) {
+    width: 20%;
+  }
+  .footer div:nth-child(3) {
+    flex: 1;
+    
+  }
