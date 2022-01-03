@@ -76,17 +76,20 @@ body {
     overflow: auto;
     text-align: center;
     align-items: center;
-  }
-  .footer div:nth-child(1) {
-    
+}
+
+.footer div:nth-child(1) {
+
     flex: none;
     width: 40%;
-    
-  }
-  .footer div:nth-child(2) {
+
+}
+
+.footer div:nth-child(2) {
     width: 20%;
-  }
-  .footer div:nth-child(3) {
+}
+
+.footer div:nth-child(3) {
     flex: 1;
-    
-  }
+
+}
