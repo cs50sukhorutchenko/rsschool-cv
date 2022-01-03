@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/cs50sukhorutchenko/rsschool-cv.git
